@@ -1,0 +1,15 @@
+.main-navbard {
+  background: #007bff;
+  background: linear-gradient(to right, #0062E6, #33AEFF);
+  /* border-bottom: 1px solid ; */
+}
+
+.attendace-present {
+  background-color: var(--green);
+  color: var(--green);
+}
+
+.attendace-absent {
+  background-color: var(--red);
+  color: var(--red);
+}
